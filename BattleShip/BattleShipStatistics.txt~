@@ -1,0 +1,73 @@
+User Fire: (3,1): HIT!!!
+Opponent Fire: (6,6): MISS
+
+User Fire: (4,1): HIT!!!
+Opponent Fire: (1,7): MISS
+
+User Fire: (5,1): HIT!!!
+Opponent Fire: (4,8): HIT!!!
+
+User Fire: (6,1): HIT!!!
+Opponent Fire: (8,9): MISS
+
+User Fire: (6,4): HIT!!!
+Opponent Fire: (2,6): MISS
+
+User Fire: (6,5): MISS
+Opponent Fire: (0,7): MISS
+
+User Fire: (6,6): MISS
+Opponent Fire: (2,8): HIT!!!
+
+User Fire: (7,4): HIT!!!
+Opponent Fire: (0,4): MISS
+
+User Fire: (8,4): HIT!!!
+Opponent Fire: (0,3): MISS
+
+User Fire: (9,4): HIT!!!  The ship has successfully sunk!!
+Opponent Fire: (3,4): HIT!!!
+
+User Fire: (2,5): HIT!!!
+Opponent Fire: (0,5): MISS
+
+User Fire: (3,5): HIT!!!
+Opponent Fire: (8,5): MISS
+
+User Fire: (4,5): HIT!!!  The ship has successfully sunk!!
+Opponent Fire: (6,9): MISS
+
+User Fire: (4,8): HIT!!!
+Opponent Fire: (6,8): MISS
+
+User Fire: (4,9): HIT!!!  The ship has successfully sunk!!
+Opponent Fire: (7,9): MISS
+
+User Fire: (6,9): HIT!!!
+Opponent Fire: (7,3): HIT!!!
+
+User Fire: (7,9): HIT!!!
+Opponent Fire: (8,0): MISS
+
+User Fire: (8,9): HIT!!!  The ship has successfully sunk!!
+Opponent Fire: (0,2): HIT!!!
+
+User Fire: (7,1): HIT!!!  The ship has successfully sunk!!
+Opponent Fire: (0,1): MISS
+
+
+User wins, Opponent loses
+
+*** User Stats ***
+Number of Hits: 17
+Number of Misses: 2
+Total Number of Shots: 19
+Hit to Miss Ratio: 850.00% 
+
+
+
+*** Opponent Stats ***
+Number of Hits: 5
+Number of Misses: 14
+Total Number of Shots: 19
+Hit to Miss Ratio: 35.71% 
