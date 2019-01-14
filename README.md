@@ -1,2 +1,2 @@
 # BattleShipGame
-The game of Battleship is recreated such that the each player's moves are recorded and statistics about the game being played are written to an output file.
+The classic game of Battleship is recreated with statistics of the game being played being recorded and written to an output file. Played via command terminal.
